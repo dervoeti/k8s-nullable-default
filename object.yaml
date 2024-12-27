@@ -1,0 +1,6 @@
+apiVersion: example.tech/v1alpha1
+kind: FooCluster
+metadata:
+  name: myfoocluster
+spec:
+  bar: null
